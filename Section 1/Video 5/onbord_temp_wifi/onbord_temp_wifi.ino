@@ -10,8 +10,8 @@ uint8_t temprature_sens_read();
 uint8_t temprature_sens_read();
 
 
-const char *ssid =  "makerdemy1";     // replace with your wifi ssid and wpa2 key
-const char *pass =  "india123";
+const char *ssid =  "Enter your WiFi SSID here";     
+const char *pass =  "Enter your WiFi password here";
 
 WiFiClient client;
 
